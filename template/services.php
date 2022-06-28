@@ -43,7 +43,7 @@
                   </div>
                 </div>
               </div>
-              <a href="akmens-skaldele.php" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+              <a href="suvirintojai.php" class="anchor-btn">Pretenduoti<i class="fas fa-arrow-right pd-lt-10"></i></a>
             </div>
           </div>
         </div>
@@ -81,7 +81,7 @@
                 </div>
               </div>
             </div>
-            <a href="akmens-plokstes.php" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+            <a href="akmens-plokstes.php" class="anchor-btn">Pretenduoti <i class="fas fa-arrow-right pd-lt-10"></i></a>
           </div>
         </div>
         <div class="col-md-6 mb-50">
@@ -127,7 +127,7 @@
                 </div>
               </div>
             </div>
-            <a href="akmens-plyteles.php" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+            <a href="akmens-plyteles.php" class="anchor-btn">Pretenduoti <i class="fas fa-arrow-right pd-lt-10"></i></a>
           </div>
         </div>
       </div>
@@ -146,7 +146,7 @@
             Darbuotojų atranka yra vykdoma 24/7
           </p>
 
-          <a href="akmens-plyteles.php" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+          <a href="darbuotoju-nuoma.php" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
 
 
         </div>
@@ -169,7 +169,7 @@
 
         </div>
         <div class="col-md-5 text-center">
-          <a href="akmens-plyteles.php" class="anchor-btn call-now-btn">+370 657 33445 </a>
+          <a href="tel:+370 657 33445" class=" anchor-btn call-now-btn">+370 657 33445 </a>
 
 
         </div>

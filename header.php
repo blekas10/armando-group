@@ -46,8 +46,8 @@
               </div>
             </div>
             <div>
-              <a href="#" class="dropdown-heading link">Darbuotojų nuoma</a>
-              <a href="#" class="dropdown-heading link">Statybų paslaugos</a>
+              <a href="darbuotoju-nuoma.php" class="dropdown-heading link">Darbuotojų nuoma</a>
+              <a href="statybu-paslaugos.php" class="dropdown-heading link">Statybų paslaugos</a>
 
 
             </div>
@@ -70,7 +70,7 @@
             </div> -->
           </div>
         </div>
-        <a href="#" class="link">Apie mus</a>
+        <a href="about-us.php" class="link">Apie mus</a>
         <a href="#" class="link">Galerija</a>
         <a href="#" class="link">LT</a>
         <a href="#" class="link">EN</a>

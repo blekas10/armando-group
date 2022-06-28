@@ -12,7 +12,7 @@
         kapo dizainas gali atspindėti ir įprasminti artimojo asmenybę.
       </p> -->
 
-      <a href="galerija.php" class="banner-btn">Preztenduoti į laisvas vietas</a>
+      <a href="galerija.php" class="banner-btn">Pretenduoti į laisvas vietas</a>
     </div>
   </div>
 </div>

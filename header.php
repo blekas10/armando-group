@@ -36,13 +36,13 @@
             <div>
               <div class="dropdown-heading">Darbuotojų atranka</div>
               <div class="dropdown-links">
-                <a href="#" class="link">Plataus profilio vidaus apdailos statybininkai (staliai)
+                <a href="darbuotojų-atranka-stalius.php" class="link">Plataus profilio vidaus apdailos statybininkai (staliai)
 
                 </a>
-                <a href="#" class="link">Suvirintojai</a>
-                <a href="#" class="link">Betonuotojai(BERI, DOKA klojiniai)</a>
-                <a href="#" class="link">Betono fabriko darbuotojai</a>
-                <a href="#" class="link">Pastolių montuotojai</a>
+                <a href="suvirintojai.php" class="link">Suvirintojai</a>
+                <a href="betonuotojai.php" class="link">Betonuotojai(BERI, DOKA klojiniai)</a>
+                <a href="betono-fabriko-darbuotojai.php" class="link">Betono fabriko darbuotojai</a>
+                <a href="pastolininkai.php" class="link">Pastolių montuotojai</a>
               </div>
             </div>
             <div>

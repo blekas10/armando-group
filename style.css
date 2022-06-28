@@ -1,8 +1,8 @@
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  text-decoration: none !important;
-  list-style: none !important;
+  text-decoration: none;
+  list-style: none;
   outline: none !important;
   margin: 0;
   padding: 0;
@@ -747,3 +747,45 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 /* .call-now-btn {
   margin-top: 4rem;
 } */
+
+.work-lists {
+  line-height: 2.25rem;
+  font-size: large;
+  margin-left: 2rem;
+}
+
+ul.work-lists li {
+  list-style: circle;
+  padding-left: 1rem;
+}
+
+.work-apl-h3 {
+  padding-bottom: 0.75rem;
+}
+
+.work-apl-p {
+  font-size: medium;
+}
+
+.pretenduok-btn .banner-btn {
+  background: #000000;
+  padding: 16px 81px;
+  font-size: 15px;
+  /* border-radius: 30px; */
+  margin-top: 30px;
+  border: solid 1px;
+  color: #fff;
+}
+
+.pretenduok-btn .banner-btn:hover {
+  background: #ffffff;
+  color: #000;
+  transition: 1.5s;
+}
+
+.work-apl-h2 {
+  margin-top: 5rem;
+}
+.top-line {
+  margin-top: 3rem;
+}

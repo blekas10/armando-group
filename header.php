@@ -27,32 +27,54 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="fas fa-bars"></span>
       </button>
-      <div class="justify-content-end collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto ">
-          <!-- <li class="nav-item">
-            <a class="nav-link" href="" data-scroll-nav="0">Pradžia</a>
-          </li> -->
-          <li class="nav-item">
-            <a class="nav-link" href="apie-mus.php" target="_self">Apie mus</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="paslaugos.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Paslaugos
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="akmens-plokstes.php">Akmens plokštės</a>
-              <a class="dropdown-item" href="akmens-skaldele.php">Akmens skaldelė</a>
-              <a class="dropdown-item" href="akmens-plyteles.php">Granito plytelės</a>
-              <a class="dropdown-item" href="paminklai.php">Paminklai</a>
+      <div class="justify-content-end collapse navbar-collapse gap-5" id="navbarSupportedContent">
+
+        <div class="dropdown" data-dropdown>
+
+          <button class="link" data-dropdown-button>Mūsų veikla</button>
+          <div class="dropdown-menu information-grid">
+            <div>
+              <div class="dropdown-heading">Darbuotojų atranka</div>
+              <div class="dropdown-links">
+                <a href="#" class="link">Plataus profilio vidaus apdailos statybininkai (staliai)
+
+                </a>
+                <a href="#" class="link">Suvirintojai</a>
+                <a href="#" class="link">Betonuotojai(BERI, DOKA klojiniai)</a>
+                <a href="#" class="link">Betono fabriko darbuotojai</a>
+                <a href="#" class="link">Pastolių montuotojai</a>
+              </div>
             </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="galerija.php" target="_self">Galerija</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link" href="kontaktai.php" target="_self">Kontaktai</a>
-          </li>
-        </ul>
+            <div>
+              <a href="#" class="dropdown-heading link">Darbuotojų nuoma</a>
+              <a href="#" class="dropdown-heading link">Statybų paslaugos</a>
+
+
+            </div>
+
+            <!-- <div>
+              <div class="dropdown-heading">Blog</div>
+              <div class="dropdown-links">
+                <a href="#" class="link">All</a>
+                <a href="#" class="link">Latest</a>
+                <a href="#" class="link">Popular</a>
+              </div>
+            </div>
+            <div>
+              <div class="dropdown-heading">Other</div>
+              <div class="dropdown-links">
+                <a href="#" class="link">Twitter</a>
+                <a href="#" class="link">Newsletter</a>
+                <a href="#" class="link">Discord</a>
+              </div>
+            </div> -->
+          </div>
+        </div>
+        <a href="#" class="link">Apie mus</a>
+        <a href="#" class="link">Galerija</a>
+        <a href="#" class="link">LT</a>
+        <a href="#" class="link">EN</a>
+
       </div>
 
     </div>

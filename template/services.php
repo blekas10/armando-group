@@ -8,7 +8,7 @@
       </div>
 
       <div>
-        <div class="row mt-5">
+        <div class="row mt-2">
           <div class="col-md-6 mb-50">
             <div class="section-img">
               <img src="images\armando-group\Welding_Industrial.png" alt="" class="img-responsive" />
@@ -32,6 +32,13 @@
                     <div class="content">
 
                       <p>Švedija</p>
+                    </div>
+                  </div>
+                  <div class="info-box">
+                    <div class="icon"><i class="fas fa-euro-sign"></i></i></div>
+                    <div class="content">
+
+                      <p>Atlyginimas: nuo 2500-3000€</p>
                     </div>
                   </div>
                 </div>
@@ -63,6 +70,13 @@
                   <div class="content">
 
                     <p>Švedija</p>
+                  </div>
+                </div>
+                <div class="info-box">
+                  <div class="icon"><i class="fas fa-euro-sign"></i></i></div>
+                  <div class="content">
+
+                    <p>Atlyginimas: nuo 2500-3000€</p>
                   </div>
                 </div>
               </div>
@@ -104,6 +118,13 @@
                     <p>Švedija</p>
                   </div>
                 </div>
+                <div class="info-box">
+                  <div class="icon"><i class="fas fa-euro-sign"></i></i></div>
+                  <div class="content">
+
+                    <p>Atlyginimas: nuo 2500-3000€</p>
+                  </div>
+                </div>
               </div>
             </div>
             <a href="akmens-plyteles.php" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
@@ -134,9 +155,9 @@
   </div>
 
   <div class="contact" data-scroll-index="4">
-    <div class="container call-now">
+    <div class="container-fluid call-now d-flex justify-content-around">
       <div class="row mb-5">
-        <div class="col-md-7 section-title">
+        <div class="col-md-7 section-title d-flex flex-column call-now-sm ">
 
 
           <h3>Skambinkite dabar</h3>
@@ -147,7 +168,11 @@
 
 
         </div>
-        <div class="col-md-5 text-center align-middle"> <a href="akmens-plyteles.php" class="anchor-btn">+370 657 33445 </a></div>
+        <div class="col-md-5 text-center">
+          <a href="akmens-plyteles.php" class="anchor-btn call-now-btn">+370 657 33445 </a>
+
+
+        </div>
       </div>
     </div>
   </div>

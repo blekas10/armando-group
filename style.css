@@ -183,7 +183,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   transition: 1.5s;
 }
 .section-padding {
-  padding: 100px 0px;
+  padding: 20px 0px;
 }
 
 .section-title h3 {
@@ -504,7 +504,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 }
 .info-box {
   position: relative;
-  padding-bottom: 5px;
+  /* padding-bottom: 5px; */
 }
 .info-box .icon {
   display: inline-block;
@@ -558,6 +558,9 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   .sub-title-paragraph {
     margin-top: 5rem;
   }
+  .call-now-btn {
+    margin-top: 4rem;
+  }
 }
 @media all and (max-width: 991px) {
   .navbar .navbar-collapse {
@@ -591,7 +594,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
     padding: 60px 0px;
   }
   .section-title {
-    padding-bottom: 40px;
+    padding-bottom: 30px;
   }
   .portfolio .filtering {
     border: none;
@@ -608,6 +611,12 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   }
   body {
     padding: 0 10px;
+  }
+  .call-now.anchor-btn {
+    margin-top: 4rem;
+  }
+  .call-now-sm {
+    padding: 3rem;
   }
 }
 .apie-mus-ul {
@@ -672,3 +681,69 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 .call-now {
   background-color: rgba(0, 0, 0, 0.318);
 }
+
+.link {
+  background: none;
+  border: none;
+  text-decoration: none;
+  color: #777;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.dropdown.active > .link,
+.link:hover {
+  color: black;
+  font-weight: 500;
+  transition: 1s;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 0.25rem);
+  background-color: rgb(255, 255, 255);
+  padding: 0.75rem;
+  border-radius: 0rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-10px);
+  transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
+  background-color: #fffffff0;
+  border-radius: 3px;
+}
+
+.dropdown.active > .link + .dropdown-menu {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.information-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 15rem);
+  gap: 2rem;
+}
+
+.dropdown-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.dropdown-heading {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+/* .call-now-btn {
+  margin-top: 4rem;
+} */

@@ -71,7 +71,7 @@
           </div>
         </div>
         <a href="about-us.php" class="link">Apie mus</a>
-        <a href="#" class="link">Galerija</a>
+        <a href="galerija.php" class="link">Galerija</a>
         <a href="#" class="link">LT</a>
         <a href="#" class="link">EN</a>
 

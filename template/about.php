@@ -23,7 +23,7 @@
       </div>
       <div class="col-md-6 mb-50">
         <div class="section-img">
-          <img src="images/about.jpg" alt="" class="img-responsive" />
+          <img src="images\galerija\IMG-20200220-WA0000-2-600x400.jpg" alt="" class="img-responsive" />
         </div>
       </div>
 

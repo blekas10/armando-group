@@ -503,8 +503,8 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   background: #333 !important;
 }
 .info-box {
+  padding-bottom: 30px;
   position: relative;
-  /* padding-bottom: 5px; */
 }
 .info-box .icon {
   display: inline-block;

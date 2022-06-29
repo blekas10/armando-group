@@ -5,7 +5,7 @@
 <div class="contact section-padding kontaktai-fullviewport" data-scroll-index="4">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 section-title text-center">
+      <div class="col-md-12 section-title text-center mb-3">
         <h3>Susisiekite su mumis nemokamai konsultacijai</h3>
         <p>
           Jeigu sudomins pasiūlymai aptarsime jums patogu laiką ir vietą
@@ -18,6 +18,8 @@
         </p>
         <span class="section-title-line"></span>
       </div>
+    </div>
+    <div class="row">
       <div class="col-lg-5 col-md-4">
         <div class="part-info">
           <div class="info-box">
@@ -81,6 +83,7 @@
       </div>
     </div>
   </div>
+</div>
 </div>
 <!-- End Contact -->
 

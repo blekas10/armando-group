@@ -1,5 +1,34 @@
 <footer class="footer-copy">
   <div class="container-fluid">
+
+    <div class="row">
+      <div class="col-sm-6">
+        <h3 class="white-capitals">Naudinga informacija</h3>
+        <a href="galerija.php" class="big-link">Galerija</a>
+        <a href="about-us.php" class="big-link">Apie mus</a>
+        <a href="tel:+370 630 37022" class="big-link">Susisiek</a>
+      </div>
+      <div class="col-sm-6">
+        <h3 class="white-capitals">ĮMONĖS REKVIZITAI</h3>
+        <p>UAB „Armando grupė“</p>
+        <p>Įmonės kodas 304050199</p>
+        <p>PVM mok. kodas LT100009526119“</p>
+        <p>Registracijos Adresas: Kęstučio g. 4,</p>
+        <p>LT-68308 Marijampolė</p>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="">
+        <a href=""><i class="fab fa-linkedin fa-3x m-3"></i></a>
+        <a href=""><i class="fab fa-whatsapp-square fa-3x m-3"></i></a>
+        <a href=""><i class="fab fa-facebook-square fa-3x m-3"></i></a>
+      </div>
+    </div>
+
+
+
     <div class="row">
       <div class="col-md-12">
         <p>
@@ -8,6 +37,8 @@
       </div>
     </div>
   </div>
+
+
 </footer>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

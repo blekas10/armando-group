@@ -789,3 +789,14 @@ ul.work-lists li {
 .top-line {
   margin-top: 3rem;
 }
+
+.white-capitals {
+  color: white;
+  padding: 1rem;
+}
+
+.big-link {
+  padding: 1.5rem;
+  /* text-transform: capitalize; */
+  font-size: medium;
+}

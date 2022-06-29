@@ -21,7 +21,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg">
     <div class="container">
-      <a class="navbar-brand navbar-logo" href="index.php">
+      <a class="" href="index.php">
         <img src="images/armando-group/AG-GREEN-SHADES.jpg" alt="logo" class="logo-1" />
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

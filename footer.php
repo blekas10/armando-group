@@ -2,13 +2,23 @@
   <div class="container-fluid">
 
     <div class="row">
-      <div class="col-sm-6">
+      <div class="col-md-4">
         <h3 class="white-capitals">Naudinga informacija</h3>
         <a href="galerija.php" class="big-link">Galerija</a>
         <a href="about-us.php" class="big-link">Apie mus</a>
         <a href="tel:+370 630 37022" class="big-link">Susisiek</a>
       </div>
-      <div class="col-sm-6">
+
+      <div class="col-md-4 mt-5">
+        <div class="">
+          <a href=""><i class="fab fa-linkedin fa-3x m-3"></i></a>
+          <a href=""><i class="fab fa-whatsapp-square fa-3x m-3"></i></a>
+          <a href=""><i class="fab fa-facebook-square fa-3x m-3"></i></a>
+        </div>
+      </div>
+
+
+      <div class="col-md-4">
         <h3 class="white-capitals">ĮMONĖS REKVIZITAI</h3>
         <p>UAB „Armando grupė“</p>
         <p>Įmonės kodas 304050199</p>
@@ -16,16 +26,10 @@
         <p>Registracijos Adresas: Kęstučio g. 4,</p>
         <p>LT-68308 Marijampolė</p>
       </div>
+
     </div>
 
 
-    <div class="row">
-      <div class="">
-        <a href=""><i class="fab fa-linkedin fa-3x m-3"></i></a>
-        <a href=""><i class="fab fa-whatsapp-square fa-3x m-3"></i></a>
-        <a href=""><i class="fab fa-facebook-square fa-3x m-3"></i></a>
-      </div>
-    </div>
 
 
 

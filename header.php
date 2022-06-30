@@ -40,7 +40,7 @@
 
                 </a>
                 <a href="suvirintojai.php" class="link">Suvirintojai</a>
-                <a href="betonuotojai.php" class="link">Betonuotojai(BERI, DOKA klojiniai)</a>
+                <a href="betonuotojai.php" class="link">Betonuotojai<br>(BERI, DOKA klojiniai)</a>
                 <a href="betono-fabriko-darbuotojai.php" class="link">Betono fabriko darbuotojai</a>
                 <a href="pastolininkai.php" class="link">Pastolių montuotojai</a>
               </div>

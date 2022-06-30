@@ -800,3 +800,9 @@ ul.work-lists li {
   /* text-transform: capitalize; */
   font-size: medium;
 }
+
+.test {
+  border: solid black 1px;
+  width: 1.5rem;
+  margin-right: 1.5rem;
+}

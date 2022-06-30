@@ -19,8 +19,8 @@
         <span class="section-title-line"></span>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-5 col-md-4">
+    <div class="row mt-5">
+      <!-- <div class="col-lg-5 col-md-4">
         <div class="part-info">
           <div class="info-box">
             <div class="icon"><i class="fas fa-phone"></i></div>
@@ -44,8 +44,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-7 col-md-8">
+      </div> -->
+      <div class="col-lg-12 col-md-12">
         <div class="contact-form">
           <form class="form" id="contact-form" method="post" data-toggle="validator">
             <input type="hidden" name="form-name" value="contact-form" />
@@ -64,6 +64,65 @@
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
+
+
+
+                <div class="row ">
+
+                  <div class="col-sm-6">
+                    <div class=" form-check ">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        Default checkbox
+                      </label>
+
+                      <input class="form-check-input test" type="checkbox" value="" id="flexCheckDefault">
+
+                    </div>
+
+
+                    <div class=" form-check ">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        Default checkbox
+                      </label>
+
+                      <input class="form-check-input test" type="checkbox" value="" id="flexCheckDefault">
+
+                    </div>
+
+
+                    <div class=" form-check ">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        Default checkbox
+                      </label>
+
+                      <input class="form-check-input test" type="checkbox" value="" id="flexCheckDefault">
+
+                    </div>
+
+
+                    <div class=" form-check ">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        Default checkbox
+                      </label>
+
+                      <input class="form-check-input test" type="checkbox" value="" id="flexCheckDefault">
+
+                    </div>
+
+
+                    <div class=" form-check ">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        Default checkbox
+                      </label>
+
+                      <input class="form-check-input test" type="checkbox" value="" id="flexCheckDefault">
+
+                    </div>
+
+                  </div>
+
+                </div>
+
                 <div class="col-lg-12">
                   <div class="form-group">
                     <input id="form_subject" type="text" name="subject" placeholder="Tema" />
